@@ -5,9 +5,9 @@
 ## Установка зависимостей
 Для работы проекта необходимо установить следующие зависимости:
 
-`pip install opencv-python`
-`pip install mediapipe`
-`pip install -r requirements.txt`
+1. `pip install opencv-python`
+2. `pip install mediapipe`
+3. `pip install -r requirements.txt`
 
 
 ## Использование
