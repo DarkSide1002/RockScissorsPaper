@@ -6,9 +6,9 @@
 Для работы проекта необходимо установить следующие зависимости:
 
 `
-pip install opencv-python
-pip install mediapipe
-pip install -r requirements.txt
+. pip install opencv-python
+. pip install mediapipe
+. pip install -r requirements.txt
 `
 
 
